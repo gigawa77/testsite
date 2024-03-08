@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(163, 223, 223);
+  margin: 50px;
+}
+
+.puppy-grass {
+  max-width: 50%;
+  border-radius: 50%;
+  border: 5px solid #000000;
+}
+
+h1,
+h2 {
+  padding-top: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  padding-bottom: 20px;
+}
+
+a {
+  font-size: 24px;
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+ul,
+ol {
+  color: rgb(14, 153, 49);
+  font-size: 22px;
+}
